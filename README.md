@@ -26,4 +26,4 @@ I am interested in developing reliable, secure, and responsible AI systems.
 
 ## Contact
 
-Email: your_email@example.com
+Email: sunanhao@hust.edu.cn or Sunanhao528@gmail.com
